@@ -8,11 +8,11 @@ The Swift Programming Language 中文手册
 ## Welcome to Swift
 
 -  [About Swift](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/01.Welcome%20to%20Swift/01.About%20Swift.md)
--  A Swift Tour
+-  [A Swift Tour](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/01.Welcome%20to%20Swift/02.A%20Swift%20Tour.md)
 
 ## Language Guide
 
--  The Basics
+-  [The Basics](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/01.The%20Basics.md)
 -  Basic Operators
 -  Strings and Characters
 -  Collection Types
