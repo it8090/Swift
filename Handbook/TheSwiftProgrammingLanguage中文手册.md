@@ -26,7 +26,7 @@ The Swift Programming Language 中文手册
 -  Subscripts
 -  Inheritance
 -  Initialization
--  Deinitialization
+-  [Deinitialization](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/15.Deinitialization.md)
 -  Automatic Reference Counting
 -  Optional Chaining
 -  Type Casting
