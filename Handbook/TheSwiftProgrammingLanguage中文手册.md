@@ -17,7 +17,7 @@ The Swift Programming Language 中文手册
 -  [Strings and Characters](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/03.Strings%20and%20Characters.md)
 -  Collection Types
 -  Control Flow
--  Functions
+-  [Functions](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/06.Functions.md)
 -  Closures
 -  Enumerations
 -  Classes and Structures
