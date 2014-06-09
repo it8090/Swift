@@ -18,7 +18,7 @@ The Swift Programming Language 中文手册
 -  Collection Types
 -  Control Flow
 -  [Functions](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/06.Functions.md)
--  Closures
+-  [Closures](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/07.Closures.md)
 -  Enumerations
 -  Classes and Structures
 -  Properties
