@@ -27,7 +27,7 @@ The Swift Programming Language 中文手册
 -  Inheritance
 -  Initialization
 -  [Deinitialization](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/15.Deinitialization.md)
--  Automatic Reference Counting
+-  [Automatic Reference Counting](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/16.Automatic%20Reference%20Counting.md)
 -  Optional Chaining
 -  Type Casting
 -  Nested Types
