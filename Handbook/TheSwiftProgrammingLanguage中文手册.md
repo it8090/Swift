@@ -16,10 +16,10 @@ The Swift Programming Language 中文手册
 -  [Basic Operators](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/02.Basic%20Operators.md)
 -  [Strings and Characters](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/03.Strings%20and%20Characters.md)
 -  [Collection Types](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/04.Collection%20Types.md)
--  Control Flow
+-  [Control Flow](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/05.Control%20Flow.md)
 -  [Functions](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/06.Functions.md)
 -  [Closures](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/07.Closures.md)
--  Enumerations
+-  [Enumerations](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/08.Enumerations.md)
 -  Classes and Structures
 -  Properties
 -  Methods
