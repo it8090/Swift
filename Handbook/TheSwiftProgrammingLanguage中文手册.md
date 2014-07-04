@@ -22,7 +22,7 @@ The Swift Programming Language 中文手册
 -  [Enumerations](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/08.Enumerations.md)
 -  [Classes and Structures](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/09.Classes%20and%20Structures.md)
 -  [Properties](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/10.Properties.md)
--  Methods
+-  [Methods](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/11.Methods.md)
 -  Subscripts
 -  Inheritance
 -  Initialization
