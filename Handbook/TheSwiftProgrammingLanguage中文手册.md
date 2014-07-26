@@ -25,7 +25,7 @@ The Swift Programming Language 中文手册
 -  [Methods](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/11.Methods.md)
 -  [Subscripts](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/12.Subscripts.md)
 -  [Inheritance](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/13.Inheritance.md)
--  Initialization
+-  [Initialization](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/14.Initialization.md)
 -  [Deinitialization](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/15.Deinitialization.md)
 -  [Automatic Reference Counting](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/16.Automatic%20Reference%20Counting.md)
 -  [Optional Chaining](https://github.com/IT8090/Swift/blob/master/Handbook/The%20Swift%20Programming%20Language/02.Language%20Guide/17.Optional%20Chaining.md)
